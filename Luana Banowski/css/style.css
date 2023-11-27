@@ -6,9 +6,13 @@ body {
     width: 100%;
 }
 
-h1 {
+h2 {
     color: #FFA62B;
     text-align: center;
+}
+
+h3 {
+text-align: center;
 }
 
 em strong {
